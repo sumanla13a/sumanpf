@@ -518,4 +518,7 @@ div#maincontent {
   width: 15%;
   display: inline-block;
   font-weight: bold;
+
+#career li {
+  font-size: 22px;
 }
